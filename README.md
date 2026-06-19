@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Mila Basto and I am a driven undergraduate student with a strong passion in scientific research. 
+I'm Mila Basto and I am a driven undergraduate student with a strong passion for scientific research. 
 
 <!--
 **milabasto/milabasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
