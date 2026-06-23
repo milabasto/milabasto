@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Mila Basto and I am a undergraduate student with a passion for science. I hope to learn more about dynamical systems from biology to physics.
+I'm Mila Basto and I am a undergraduate student with a passion for science. I hope to learn more about dynamical systems from neural oscilliations to immune responses.
 
 <!--
 **milabasto/milabasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
