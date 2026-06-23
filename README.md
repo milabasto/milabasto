@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Mila Basto and I am a undergraduate student with a passion for science. I hope to learn more about dynamical systems from gravitational waves, neural waveforms, and IgE-mediated immune responses.
+I'm Mila Basto and I am a undergraduate student with a passion for science. I am learning about dynamical systems from gravitational waves, neural waveforms, and IgE-mediated immune responses. I hope to build the foundation needed to approach these questions in the future.
 
 <!--
 **milabasto/milabasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
