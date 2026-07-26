@@ -1,4 +1,4 @@
-## #Hello world
+## Hello world
 I'm Mila Basto and I am a undergraduate student interested in research. 
 <!--
 **milabasto/milabasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
